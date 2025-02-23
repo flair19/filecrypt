@@ -20,9 +20,7 @@ linux
 cryptography-python
 servers
 
-
-
-
+skills
 ===========
 file encryption
 file decryption
