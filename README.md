@@ -22,7 +22,7 @@ servers
 
 skills
 ===========
-file encryption
-file decryption
-error/corruption verification
-encryption key management
+- file encryption
+- file decryption
+- error/corruption verification
+- encryption key management
